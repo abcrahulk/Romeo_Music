@@ -51,10 +51,10 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],
         [
            InlineKeyboardButton(
-                text="💝ᴏᴡɴᴇʀ💝", url=f"https://t.me/sexyaaditya",
+                text="💝ᴏᴡɴᴇʀ💝", url=f"https://t.me/itz_Lucky_Raja",
             ),
            InlineKeyboardButton(
-                text="💝ᴄᴏ ᴏᴡɴᴇʀ💝", url=f"https://t.me/Baapxvipin",
+                text="💝ᴄᴏ ᴏᴡɴᴇʀ💝", url=f"https://t.me/Time_Pass_Back",
             ),
         ],
         [
@@ -104,10 +104,10 @@ def telegram_markup_timer(_, chat_id, played, dur):
         ],
         [
            InlineKeyboardButton(
-                text="💝ᴏᴡɴᴇʀ💝", url=f"https://t.me/sexyaaditya",
+                text="💝ᴏᴡɴᴇʀ💝", url=f"https://t.me/itz_Lucky_Raja",
             ),
            InlineKeyboardButton(
-                text="💝ᴄᴏ ᴏᴡɴᴇʀ💝", url=f"https://t.me/Baapxvipin",
+                text="💝ᴄᴏ ᴏᴡɴᴇʀ💝", url=f"https://t.me/Time_Pass_Back",
             ),
         ],
         [
@@ -150,10 +150,10 @@ def stream_markup(_, videoid, chat_id):
         ],
         [
            InlineKeyboardButton(
-                text="💝ᴏᴡɴᴇʀ💝", url=f"https://t.me/sexyaaditya",
+                text="💝ᴏᴡɴᴇʀ💝", url=f"https://t.me/itz_Lucky_Raja",
             ),
            InlineKeyboardButton(
-                text="💝ᴄᴏ ᴏᴡɴᴇʀ💝", url=f"https://t.me/Baapxvipin",
+                text="💝ᴄᴏ ᴏᴡɴᴇʀ💝", url=f"https://t.me/Time_Pass_Bsck",
             ),
         ],
         [
@@ -184,10 +184,10 @@ def telegram_markup(_, chat_id):
         ],
         [
            InlineKeyboardButton(
-                text="💝ᴏᴡɴᴇʀ💝", url=f"https://t.me/sexyaaditya",
+                text="💝ᴏᴡɴᴇʀ💝", url=f"https://t.me/itz_Lucky_Raja",
             ),
            InlineKeyboardButton(
-                text="💝ᴄᴏ ᴏᴡɴᴇʀ💝", url=f"https://t.me/Baapxvipin",
+                text="💝ᴄᴏ ᴏᴡɴᴇʀ💝", url=f"https://t.me/Time_Pass_Back",
             ),
         ],
         [
@@ -341,10 +341,10 @@ def queue_markup(_, videoid, chat_id):
         ],
         [
            InlineKeyboardButton(
-                text="💝ᴏᴡɴᴇʀ💝", url=f"https://t.me/sexyaaditya",
+                text="💝ᴏᴡɴᴇʀ💝", url=f"https://t.me/itz_Lucky_Raja",
             ),
            InlineKeyboardButton(
-                text="💝ᴄᴏ ᴏᴡɴᴇʀ💝", url=f"https://t.me/Baapxvipin",
+                text="💝ᴄᴏ ᴏᴡɴᴇʀ💝", url=f"https://t.me/Time_Pass_Back",
             ),
         ],
         [
