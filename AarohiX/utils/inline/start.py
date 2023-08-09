@@ -25,9 +25,9 @@ def start_pannel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
         ],
         [
             InlineKeyboardButton(
-                text="💖 ᴏᴡɴᴇʀ 💖", url=f"https://t.me/sexyaaditya"),
+                text="💖 ᴏᴡɴᴇʀ 💖", url=f"https://t.me/itz_Lucky_Raja"),
             InlineKeyboardButton(
-                text="🥰 ᴄᴏ ᴏᴡɴᴇʀ 🥰", url=f"https://t.me/Baapxvipin"
+                text="🥰 ᴄᴏ ᴏᴡɴᴇʀ 🥰", url=f"https://t.me/Time_Pass_Back"
             ),
         ],
         [
@@ -56,9 +56,9 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
         ],
         [
             InlineKeyboardButton(
-                text="💖 ᴏᴡɴᴇʀ 💖", url=f"https://t.me/sexyaaditya"),
+                text="💖 ᴏᴡɴᴇʀ 💖", url=f"https://t.me/itz_Lucky_Raja"),
             InlineKeyboardButton(
-                text="🥰 ᴄᴏ ᴏᴡɴᴇʀ 🥰", url=f"https://t.me/Baapxvipin"
+                text="🥰 ᴄᴏ ᴏᴡɴᴇʀ 🥰", url=f"https://t.me/Time_Pass_Back"
             ),
         ],
         [
@@ -69,7 +69,7 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
         ],
         [
             InlineKeyboardButton(
-                    text="🥰 ᴍᴏʀᴇ 🥰", url=f"https://t.me/WhoIsAaditya"
+                    text="🥰 ᴍᴏʀᴇ 🥰", url=f"https://t.me/ZiddiXBot"
                 )
         ],
      ]
