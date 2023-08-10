@@ -25,9 +25,9 @@ def start_pannel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
         ],
         [
             InlineKeyboardButton(
-                text="💖 ᴏᴡɴᴇʀ 💖", url=f"https://t.me/itz_Lucky_Raja"),
+                text="🔥ᴏᴡɴᴇʀ🔥", url=f"https://t.me/itz_Lucky_Raja"),
             InlineKeyboardButton(
-                text="🥰 ᴄᴏ ᴏᴡɴᴇʀ 🥰", url=f"https://t.me/Shivans_Raj_BrockenHart"
+                text="🥰ᴄᴏ ᴏᴡɴᴇʀ🥰", url=f"https://t.me/Shivans_Raj_BrockenHart"
             ),
         ],
         [
@@ -56,9 +56,9 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
         ],
         [
             InlineKeyboardButton(
-                text="💖 ᴏᴡɴᴇʀ 💖", url=f"https://t.me/itz_Lucky_Raja"),
+                text="🔥ᴏᴡɴᴇʀ🔥", url=f"https://t.me/itz_Lucky_Raja"),
             InlineKeyboardButton(
-                text="🥰 ᴄᴏ ᴏᴡɴᴇʀ 🥰", url=f"https://t.me/Shivans_Raj_BrockenHart"
+                text="🥰ᴄᴏ ᴏᴡɴᴇʀ🥰", url=f"https://t.me/Shivans_Raj_BrockenHart"
             ),
         ],
         [
@@ -69,8 +69,15 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
         ],
         [
             InlineKeyboardButton(
-                    text="🥰 ᴍᴏʀᴇ 🥰", url=f"https://t.me/ZiddiXBot"
-                )
+                    text="🥵 ᴍᴏʀᴇ 🥵", url=f"https://t.me/ZiddiXBot"
+                ),
+        ],
+        [
+            InlineKeyboardButton(
+                    text="🥰sᴛᴜᴅʏ ɢʀᴏᴜᴘ🥰"
+url=f"https://t.me/+LHcxarl1geQyYWM1"
+                ),
+           
         ],
      ]
     return buttons
